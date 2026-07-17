@@ -17,7 +17,7 @@ Além da validação funcional da aplicação mobile, o projeto contempla a docu
 
 ## Ferramentas utilizadas
 
-* Jira – gerenciamento de tarefas e registro de bugs.
+* Jira/Kanban – gerenciamento de tarefas e registro de bugs.
 * GitHub – versionamento e documentação do projeto.
 * Excel ou Google Sheets – elaboração e execução dos casos de teste.
 * Capturas de tela e gravações de vídeo – evidências dos testes.
