@@ -194,18 +194,7 @@ Este projeto ajudou a reforçar aprendizados importantes de QA manual:
 - Como diferenciar bug de sugestão de melhoria.
 - Como identificar riscos além do comportamento visual, especialmente em permissões e dados sensíveis.
 
-## 15. Recomendações para Próximos Ciclos
-
-Para um próximo ciclo de testes, seria recomendado priorizar:
-
-1. Regressão no módulo **Documentos**, especialmente permissões de criação, edição e exclusão.
-2. Regressão nos fluxos derivados do **Home / Feed**.
-3. Testes adicionais em orientação paisagem.
-4. Validação mais profunda de permissões por perfil.
-5. Testes de usabilidade em Galeria e Agenda.
-6. Verificação de comportamento em diferentes dispositivos Android.
-
-## 16. Conclusão Final
+## 15. Conclusão Final
 
 O projeto QA Educabiz atingiu o objetivo proposto: criar um estudo de testes manuais organizado, executável e adequado para portfólio de QA Júnior.
 
